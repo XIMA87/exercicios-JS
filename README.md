@@ -1,2 +1,2 @@
 # exercicios-JS
-Pasta com alguns exercícios
+Repositório com alguns exercícios
